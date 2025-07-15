@@ -93,6 +93,6 @@ pip install streamlit tensorflow numpy
 ```
 ## Tampilan app.py Menggunakan Streamlit
 
-![tyasnurkuamla2](.img/satu.png)
-![tyasnurkuamla2](.img/dua.png)
+![tyasnurkuamala2](.img/satu.png)
+![tyasnurkuamala2](.img/dua.png)
 
